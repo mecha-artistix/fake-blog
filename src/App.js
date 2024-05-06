@@ -77,7 +77,7 @@ function Header() {
   return (
     <header>
       <h1>
-        <span>⚛️</span>The Atomic Blog
+        <span>🫠</span>The Fake Blog
       </h1>
       <div>
         <Results />
